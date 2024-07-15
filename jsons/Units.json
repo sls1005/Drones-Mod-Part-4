@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Fake Bird",
+        "unitType": "Small Drone",
+        "requiredTech": "Robotics",
+        "cost": 95,
+        "strength": 0,
+        "range": 2,
+        "movement": 1,
+        "promotions": ["Endurance I", "Better Camera"],
+        "uniques": [
+            "Unbuildable <before discovering [Flight]>",
+            "Unbuildable <before discovering [Radio]>",
+            "Unbuildable <in cities without a [Drone Factory]>",
+            "Invisible to non-adjacent units",
+            "Can see over obstacles"
+        ],
+        "uniqueTo": "America",
+        "replaces": "Camera Drone",
+        "upgradesTo": "Loitering Munition",
+        "civilopediaText": [
+            {
+                "text": "Fake birds are small, mysterious machines from American folklore. Some stories suggest that those machines were used for the purpose of national security. However, there is no reliable evidence showing that the machines really exist."
+            }
+        ]
+    },
+]
