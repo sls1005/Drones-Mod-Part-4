@@ -7,7 +7,7 @@
         "strength": 0,
         "range": 2,
         "movement": 1,
-        "promotions": ["Endurance I", "Better Camera"],
+        "promotions": ["UAV Endurance I", "Better Camera"],
         "uniques": [
             "Unbuildable <before discovering [Flight]>",
             "Unbuildable <before discovering [Radio]>",
