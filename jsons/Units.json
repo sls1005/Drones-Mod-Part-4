@@ -9,9 +9,9 @@
         "movement": 1,
         "promotions": ["UAV Endurance I", "Better Camera"],
         "uniques": [
-            "Unbuildable <before discovering [Flight]>",
-            "Unbuildable <before discovering [Radio]>",
-            "Unbuildable <in cities without a [Drone Factory]>",
+            "Unavailable <before discovering [Flight]>",
+            "Unavailable <before discovering [Radio]>",
+            "Unavailable <in cities without a [Drone Factory]>",
             "Invisible to non-adjacent units",
             "Can see over obstacles"
         ],
